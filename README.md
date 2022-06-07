@@ -2,6 +2,10 @@
 
 This project demonstrates a personal travel journal Application.
 
+## View App
+
+Visit app on [https://nabunyalilian.github.io/TravelJournalApp/](https://nabunyalilian.github.io/TravelJournalApp/)
+
 ## Available Script
 
 In the project directory, you can run:
