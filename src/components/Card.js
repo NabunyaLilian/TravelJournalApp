@@ -1,3 +1,4 @@
+import React from 'react';
 import icon from "../images/location-icon.png"
 
 function Card(props){

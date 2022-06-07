@@ -1,3 +1,4 @@
+import React from 'react';
 import earth from "../images/earth.png"
 
 function Navbar(){
